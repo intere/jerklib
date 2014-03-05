@@ -716,4 +716,8 @@ public class ConnectionManager
 
 		socChanMap.put(sChannel, session);
 	}
+
+	public static String getVersion() {
+		return "0.9-SNAPSHOT";
+	}
 }
