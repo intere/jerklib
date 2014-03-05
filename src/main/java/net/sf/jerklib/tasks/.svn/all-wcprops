@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/jerklib/!svn/ver/825/jerklib/src/jerklib/tasks
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jerklib/!svn/ver/804/jerklib/src/jerklib/tasks/Task.java
+END
+OnceUntilSucceedsTaskImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jerklib/!svn/ver/825/jerklib/src/jerklib/tasks/OnceUntilSucceedsTaskImpl.java
+END
+TaskImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jerklib/!svn/ver/805/jerklib/src/jerklib/tasks/TaskImpl.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/803/jerklib/src/jerklib/tasks/package-info.java
+END
+OnceTaskImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/825/jerklib/src/jerklib/tasks/OnceTaskImpl.java
+END

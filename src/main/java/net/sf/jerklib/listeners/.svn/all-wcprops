@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/jerklib/!svn/ver/816/jerklib/src/jerklib/listeners
+END
+TaskCompletionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jerklib/!svn/ver/804/jerklib/src/jerklib/listeners/TaskCompletionListener.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jerklib/!svn/ver/803/jerklib/src/jerklib/listeners/package-info.java
+END
+IRCEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jerklib/!svn/ver/804/jerklib/src/jerklib/listeners/IRCEventListener.java
+END
+WriteRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jerklib/!svn/ver/804/jerklib/src/jerklib/listeners/WriteRequestListener.java
+END
+DefaultIRCEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jerklib/!svn/ver/816/jerklib/src/jerklib/listeners/DefaultIRCEventListener.java
+END

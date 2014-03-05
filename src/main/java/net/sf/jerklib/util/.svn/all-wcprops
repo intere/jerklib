@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/jerklib/!svn/ver/872/jerklib/src/jerklib/util
+END
+Colors.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/jerklib/!svn/ver/846/jerklib/src/jerklib/util/Colors.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jerklib/!svn/ver/803/jerklib/src/jerklib/util/package-info.java
+END
+NickServAuthPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jerklib/!svn/ver/829/jerklib/src/jerklib/util/NickServAuthPlugin.java
+END
+InetAddressUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jerklib/!svn/ver/846/jerklib/src/jerklib/util/InetAddressUtils.java
+END
+IdentServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jerklib/!svn/ver/872/jerklib/src/jerklib/util/IdentServer.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jerklib/!svn/ver/685/jerklib/src/jerklib/util/Pair.java
+END

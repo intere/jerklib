@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/jerklib/!svn/ver/871/jerklib/src/jerklib/parsers
+END
+QuitParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/QuitParser.java
+END
+DefaultInternalEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jerklib/!svn/ver/871/jerklib/src/jerklib/parsers/DefaultInternalEventParser.java
+END
+NickParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/NickParser.java
+END
+ModeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/ModeParser.java
+END
+TopicUpdatedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/TopicUpdatedParser.java
+END
+PrivMsgParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/PrivMsgParser.java
+END
+NickInUseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/NickInUseParser.java
+END
+ConnectionCompleteParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/ConnectionCompleteParser.java
+END
+WhoisParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/WhoisParser.java
+END
+WhoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/WhoParser.java
+END
+InviteParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jerklib/!svn/ver/822/jerklib/src/jerklib/parsers/InviteParser.java
+END
+JoinParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/851/jerklib/src/jerklib/parsers/JoinParser.java
+END
+AwayParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/827/jerklib/src/jerklib/parsers/AwayParser.java
+END
+NamesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/NamesParser.java
+END
+MotdParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/MotdParser.java
+END
+ChanListParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/ChanListParser.java
+END
+PartParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/PartParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jerklib/!svn/ver/803/jerklib/src/jerklib/parsers/package-info.java
+END
+WhoWasParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/WhoWasParser.java
+END
+NumericErrorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/NumericErrorParser.java
+END
+ServerInformationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/ServerInformationParser.java
+END
+ServerVersionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/ServerVersionParser.java
+END
+InternalEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jerklib/!svn/ver/725/jerklib/src/jerklib/parsers/InternalEventParser.java
+END
+CommandParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/CommandParser.java
+END
+TopicParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/TopicParser.java
+END
+NoticeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/NoticeParser.java
+END
+KickParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jerklib/!svn/ver/818/jerklib/src/jerklib/parsers/KickParser.java
+END
